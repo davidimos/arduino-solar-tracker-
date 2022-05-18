@@ -4,7 +4,7 @@ int initial_position = 90;
 int LDR1 = A0;          //connect The LDR1 on Pin A0
 int LDR2 = A1;          //Connect The LDR2 on pin A1
 int error = 5;          
-int servopin=9;         //You can change servo just makesure its on arduino's PWM pin
+int servopin=9;         
 void setup() 
 { 
 
